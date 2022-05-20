@@ -1,0 +1,1 @@
+# MethodReturnTypes-JUnit2
